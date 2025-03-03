@@ -12,5 +12,4 @@ This project monitors multiple servers, logs status, and provides a UI for visua
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/server-status-checker.git
-   cd server-status-checker
+   https://github.com/TUBUNJANA/Server-Status-Checker.git
