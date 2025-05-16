@@ -9,6 +9,9 @@ This project monitors multiple servers, logs status, and provides a UI for visua
 ✅ Analyzes server performance  
 ✅ UI for adding new URLs and viewing data  
 
+![Server Status Checker Banner]()
+
+
 ## Installation
 1. Clone the repo:
    ```bash
