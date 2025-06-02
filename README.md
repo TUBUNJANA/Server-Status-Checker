@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="UI/public/favicon.png" alt="SkillSync Logo" width="200"/>
+</p>
+
+
 # Server Status Checker 🚀
 
 This project monitors multiple servers, logs status, and provides a UI for visualization.
